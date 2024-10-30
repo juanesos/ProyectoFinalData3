@@ -27,7 +27,7 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 ### Diagrama Relacional
 
-> [Insertar aquí un diagrama ERD que muestre las principales relaciones, como "Cliente", "Cuenta Bancaria", "Transacciones" y "Productos"]
+> ![Diagrama ER](./DiagramaER.png)
 
 - **Clientes**: Información personal y de contacto del usuario.
 - **Cuentas Bancarias**: Datos relacionados con cada cuenta bancaria.
