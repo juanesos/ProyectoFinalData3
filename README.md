@@ -34,8 +34,8 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 - **Transacciones**: Registro de todas las transacciones realizadas.
 - **Productos**: Información sobre los productos financieros ofrecidos.
 
-## Tablero de analisis
+## Tablero de análisis
 
-El tablero de analisis creado, cuenta con vistas de cliente, productos y cartera, que permiten visualizar y firltrar la información, para conocer indicadores de importancia para diagnosticar el estado de la aplicación en diferentes areas de interés.
+El tablero de análisis creado, cuenta con vistas de cliente, productos y cartera, que permiten visualizar y filtrar la información, para conocer indicadores de importancia para diagnosticar el estado de la aplicación en diferentes areas de interés.
 
-> [Analisis de datos BankTech](https://app.powerbi.com/view?r=eyJrIjoiMTc5MWZmMzUtNzY4MS00MDAwLWI4ZjUtZWQ2NmFlN2VkMTU4IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=9ea71799499533a74817)
+> [Análisis de datos BankTech](https://app.powerbi.com/view?r=eyJrIjoiMTc5MWZmMzUtNzY4MS00MDAwLWI4ZjUtZWQ2NmFlN2VkMTU4IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=9ea71799499533a74817)
