@@ -29,11 +29,6 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 > ![Diagrama ER](./DiagramaER.png)
 
-- **Clientes**: Información personal y de contacto del usuario.
-- **Cuentas Bancarias**: Datos relacionados con cada cuenta bancaria.
-- **Transacciones**: Registro de todas las transacciones realizadas.
-- **Productos**: Información sobre los productos financieros ofrecidos.
-
 ## Tablero de análisis
 
 El tablero de análisis creado, cuenta con vistas de cliente, productos y cartera, que permiten visualizar y filtrar la información, para conocer indicadores de importancia para diagnosticar el estado de la aplicación en diferentes areas de interés.
