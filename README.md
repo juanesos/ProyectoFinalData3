@@ -9,7 +9,7 @@ Este repositorio contiene toda la estructura utilizada para crear la base de dat
 1. [Descripción](#descripción)
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 3. [Esquema de Base de Datos](#esquema-de-base-de-datos)
-4. [Tablero de análisis](#tablero-de-analisis)
+4. [Tablero de análisis](#tablero-de-análisis)
 
 ---
 
