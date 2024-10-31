@@ -6,12 +6,19 @@ Este repositorio contiene toda la estructura utilizada para crear la base de dat
 
 ## Tabla de Contenidos
 
-1. [Descripción](#descripción)
-2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-3. [Esquema de Base de Datos](#esquema-de-base-de-datos)
-4. [Tablero de análisis](#tablero-de-análisis)
+1. [Presentación del proyecto](#presentación-del-proyecto)
+2. [Descripción](#descripción)
+3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Esquema de Base de Datos](#esquema-de-base-de-datos)
+5. [Tablero de análisis](#tablero-de-análisis)
 
 ---
+
+## Presentación del proyecto
+
+En el siguiente enlace pueden encontrar las diapositivas que muestran el equipo de trabajo, el paso a paso realizado, las conslusiones obtenidas y las recomendaciones estrategicas.
+
+> ![Slides en Prezi](https://prezi.com/view/J0RtdibZ3S4YmHrSaId3/)
 
 ## Descripción
 
