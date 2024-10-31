@@ -18,7 +18,7 @@ Este repositorio contiene toda la estructura utilizada para crear la base de dat
 
 En el siguiente enlace pueden encontrar las diapositivas que muestran el equipo de trabajo, el paso a paso realizado, las conslusiones obtenidas y las recomendaciones estrategicas.
 
-> ![Slides en Prezi](https://prezi.com/view/J0RtdibZ3S4YmHrSaId3/)
+> [Slides en Prezi](https://prezi.com/view/J0RtdibZ3S4YmHrSaId3/)
 
 ## Descripción
 
