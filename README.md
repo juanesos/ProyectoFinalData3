@@ -38,6 +38,6 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 ## Tablero de análisis
 
-El tablero de análisis creado, cuenta con vistas de cliente, productos y cartera, que permiten visualizar y filtrar la información, para conocer indicadores de importancia para diagnosticar el estado de la aplicación en diferentes areas de interés.
+En el enlace a continuación se podrá visualizar el tablero de análisis creado, que cuenta con vistas de cliente, productos y cartera, desde las cueales es posible visualizar y filtrar la información, para conocer indicadores de importancia para diagnosticar el estado de la aplicación en diferentes areas de interés.
 
 > [Análisis de datos BankTech](https://app.powerbi.com/view?r=eyJrIjoiMTc5MWZmMzUtNzY4MS00MDAwLWI4ZjUtZWQ2NmFlN2VkMTU4IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=9ea71799499533a74817)
